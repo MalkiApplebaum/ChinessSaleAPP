@@ -4,6 +4,34 @@
 המערכת נבנתה כדי להקל על ניהול תהליך מכירה סינית, כולל רישום, רכישת כרטיסים, ניהול מתנות, והגרלת זוכים.  
 המערכת כוללת ממשק משתמש ידידותי, פונקציות חיפוש ותכונות ניהול מתקדמות.
 
+## **צילומי מסך**
+
+### עמוד הבית הרשמה וכניסה:
+<div>
+  <img src="screenshots/homePage.png." alt="Homepage" width="200" />
+  <img src="screenshots/login.png" alt="Login" width="200" />
+  <img src="screenshots/register.png" alt="Homepage Screenshot 3" width="200" />
+</div>
+
+### ממשק מנהל:
+<div>
+  <img src="screenshots/editGift.png" alt="editGift" width="200" />
+  <img src="screenshots/donors.png" alt="donors" width="200" />
+  <img src="screenshots/lottery.png" alt="lottery" width="200" />
+  <img src="screenshots/lottery1.png" alt="lottery" width="200" />
+  <img src="screenshotslottery2.png" alt="lottery" width="200" />
+  <img src="screenshots/purches.png" alt="purches" width="200" />
+</div>
+
+### ממשק משתמש:
+<div>
+  <img src="screenshots/costumerGifts.png" alt="costumerGifts" width="200" />
+  <img src="screenshots/basket.png" alt="basket" width="200" />
+  <img src="screenshots/costumerSales.png" alt="costumerSales" width="200" />
+  <img src="screenshots/payment.png" alt="payment" width="200" />
+</div>
+
+
 ---
 
 ## **תכונות עיקריות**
