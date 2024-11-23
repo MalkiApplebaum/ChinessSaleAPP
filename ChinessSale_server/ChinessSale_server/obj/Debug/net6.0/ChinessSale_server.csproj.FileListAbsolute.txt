@@ -1,0 +1,777 @@
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+D:\Users\The user\Desktop\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.ChinessSale_server.Microsoft.AspNetCore.StaticWebAssets.props
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinessSale_server.props
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinessSale_server.props
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinessSale_server.props
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.pack.json
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+E:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+F:\15_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+D:\Users\The user\Desktop\18_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+D:\Users\The user\Desktop\23_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\The user\Desktop\22_06_2024\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.ChinessSale_server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinessSale_server.props
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinessSale_server.props
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinessSale_server.props
+D:\Users\The user\Downloads\23_07_2024 מכירה סינית לפני עיצובים\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.ChinessSale_server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinessSale_server.props
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinessSale_server.props
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinessSale_server.props
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
+C:\Users\This User\Desktop\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.sourcelink.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\appsettings.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.exe
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.deps.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.runtimeconfig.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\ChinessSale_server.pdb
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Humanizer.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.AssemblyReference.cache
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.AssemblyInfo.cs
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.sourcelink.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.ChinessSale_server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.build.ChinessSale_server.props
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChinessSale_server.props
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChinessSale_server.props
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\scopedcss\bundle\ChinessSale_server.styles.css
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.csproj.CopyComplete
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\refint\ChinessSale_server.dll
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.pdb
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ChinessSale_server.genruntimeconfig.cache
+C:\Users\This User\Downloads\ChinessSale\ChinessSale_server\ChinessSale_server\obj\Debug\net6.0\ref\ChinessSale_server.dll
