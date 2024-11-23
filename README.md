@@ -8,19 +8,19 @@
 
 ### עמוד הבית הרשמה וכניסה:
 <div>
-  <img src="screenshots/homePage.png" alt="Homepage" width="100" />
+  <img src="screenshots/homePage.png" alt="Homepage" width="200" />
   <img src="screenshots/login.png" alt="Login" width="100" />
   <img src="screenshots/register.png" alt="Homepage Screenshot 3" width="100" />
 </div>
 
 ### ממשק מנהל:
 <div>
-  <img src="screenshots/editGift.png" alt="editGift" width="100" />
-  <img src="screenshots/donors.png" alt="donors" width="100" />
-  <img src="screenshots/lottery.png" alt="lottery" width="100" />
-  <img src="screenshots/lottery1.png" alt="lottery" width="100" />
-  <img src="screenshots/lottery2.png" alt="lottery" width="100" />
-  <img src="screenshots/purches.png" alt="purches" width="100" />
+  <img src="screenshots/editGift.png" alt="editGift" width="150" />
+  <img src="screenshots/donors.png" alt="donors" width="150" />
+  <img src="screenshots/lottery.png" alt="lottery" width="150" />
+  <img src="screenshots/lottery1.png" alt="lottery" width="150" />
+  <img src="screenshots/lottery2.png" alt="lottery" width="150" />
+  <img src="screenshots/purches.png" alt="purches" width="150" />
 </div>
 
 ### ממשק משתמש:
