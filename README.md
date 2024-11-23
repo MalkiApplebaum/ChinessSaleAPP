@@ -8,9 +8,9 @@
 
 ### עמוד הבית הרשמה וכניסה:
 <div>
-  <img src="screenshots/homePage.png" alt="Homepage" width="200" style="border: 4px solid black;" />
-  <img src="screenshots/login.png" alt="Login" width="100"style="border: 4px solid black;" />
-  <img src="screenshots/register.png" alt="Homepage Screenshot 3" width="100" style="border: 4px solid black;"/>
+  <img src="screenshots/homePage.png" alt="Homepage" width="200"/>
+  <img src="screenshots/login.png" alt="Login" width="100" />
+  <img src="screenshots/register.png" alt="Homepage Screenshot 3" width="100"/>
 </div>
 
 ### ממשק מנהל:
