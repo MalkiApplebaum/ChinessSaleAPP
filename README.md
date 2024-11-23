@@ -19,7 +19,7 @@
   <img src="screenshots/donors.png" alt="donors" width="100" />
   <img src="screenshots/lottery.png" alt="lottery" width="100" />
   <img src="screenshots/lottery1.png" alt="lottery" width="100" />
-  <img src="screenshotslottery2.png" alt="lottery" width="100" />
+  <img src="screenshots/lottery2.png" alt="lottery" width="100" />
   <img src="screenshots/purches.png" alt="purches" width="100" />
 </div>
 
