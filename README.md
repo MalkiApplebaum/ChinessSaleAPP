@@ -17,8 +17,8 @@
 <div>
   <img src="screenshots/editGift.png" alt="editGift" width="150" />
   <img src="screenshots/donors.png" alt="donors" width="150" />
-  <img src="screenshots/lottery.png" alt="lottery" width="250" />
-  <img src="screenshots/lottery1.png" alt="lottery" width="250" />
+  <img src="screenshots/lottery.png" alt="lottery" width="150" />
+  <img src="screenshots/lottery1.png" alt="lottery" width="150" />
   <img src="screenshots/lottery2.png" alt="lottery" width="150" />
   <img src="screenshots/purches.png" alt="purches" width="150" />
 </div>
